@@ -1,0 +1,12 @@
+http:/yourdomain:9999/download/7z.dll
+http:/yourdomain:9999/download/7z.exe
+http:/yourdomain:9999/download/StartTest.bat
+http:/yourdomain:9999/download/End.bat
+http:/yourdomain:9999/download/test.bat
+http:/yourdomain:9999/download/ghw.exe
+http:/yourdomain:9999/download/smartctl.exe
+http:/yourdomain:9999/download/cpuz.exe
+http:/yourdomain:9999/download/aida64.7z
+http:/yourdomain:9999/download/aida64Pro.7z
+http:/yourdomain:9999/download/Prime95.7z
+
